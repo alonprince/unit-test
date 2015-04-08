@@ -1,0 +1,29 @@
+{
+  "name": "unit-test",
+  "version": "1.0.0",
+  "description": "study unit-test",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:alonprince/unit-test.git"
+  },
+  "keywords": [
+    "unit-test"
+  ],
+  "author": "Phishing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alonprince/unit-test/issues"
+  },
+  "homepage": "https://github.com/alonprince/unit-test"
+}
